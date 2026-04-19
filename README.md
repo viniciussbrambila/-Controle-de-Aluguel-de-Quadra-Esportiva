@@ -5,9 +5,9 @@ Exercício de trabalho da matéria de estruturação de sistemas e aplicações
 
 ## Tabelas Identificadas
 
-* **Cliente:** 
-* **Horário:** 
-* **Aluguel:** 
+* **Cliente** 
+* **Horário** 
+* **Aluguel** 
 
 ## Regras de Negócio
 1. Não é permitido cadastrar clientes com o nome vazio.
